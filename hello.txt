@@ -1,3 +1,0 @@
-Hello This is my first statement fot tracking and commit.
-This is my second statement 
-Third Statement
